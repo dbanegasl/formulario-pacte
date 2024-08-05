@@ -1,0 +1,10 @@
+/proyecto
+    /css
+        style.css
+    /js
+        script.js
+        register.js
+        login.js
+    index.html
+    favicon.ico
+
